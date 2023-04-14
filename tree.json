@@ -1,0 +1,54 @@
+{
+  "tree": {
+    "title": "Root",
+    "children": [
+      {
+        "title": "Test note foo",
+        "x": 80,
+        "y": 60,
+        "width": 302,
+        "height": 171,
+        "color": {
+          "h": 169.87951807228913,
+          "s": 54.248366013071916,
+          "l": 70
+        },
+        "children": [],
+        "id": 3
+      },
+      {
+        "title": "Test note bar",
+        "x": 473,
+        "y": 343,
+        "width": 150,
+        "height": 50,
+        "color": {
+          "h": 283.9175257731959,
+          "s": 82.90598290598294,
+          "l": 77.05882352941177
+        },
+        "children": [],
+        "id": 1,
+        "lines": [],
+        "pinned": 0
+      }
+    ],
+    "id": 2
+  },
+  "view": {
+    "2": {
+      "x": 0,
+      "y": 0,
+      "s": 1,
+      "open": true
+    },
+    "sidebarLeft": {
+      "size": 200,
+      "open": false
+    },
+    "sidebarRight": {
+      "size": 200,
+      "open": false
+    }
+  }
+}
